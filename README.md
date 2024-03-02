@@ -6,7 +6,7 @@ Hola ¡Gracias por visitar mi perfil!
 Soy una persona proactiva con gran motivación por el desarrollo de software, me gusta aprender y buscar desafíos constantemente para mejorar mis habilidades y poder ofrecer soluciones de calidad superior.
 
 🌐¿Por desarrollador de software?
-En mi camino descubrí mi atracción por el software a lo largo de estos años gracias a mis estudios extracurriculares. En mi día a día manejo arquitecturas, patrones de diseño, diseño de BBDD, entre otras cosas. No destacaría una tecnología especial ya que no las considero una frontera pero me especializo en java, con spring boot y nextjs para el front.
+En mi camino descubrí mi atracción por el software a lo largo de estos años gracias a mis estudios. En mi día a día manejo arquitecturas, patrones de diseño, diseño de BBDD, entre otras cosas. No destacaría una tecnología especial ya que no las considero una frontera pero me especializo en java, con spring boot y nextjs para el front.
 
 
 ➕ ¿Qué puedo aportar?. Pensamiento crítico, análisis y solución de problemas.
