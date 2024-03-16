@@ -1,25 +1,12 @@
-Hola ¡Gracias por visitar mi perfil!
+¡Hola! Soy Benjamin Montero, un Desarrollador Full Stack especializado en Java y Spring Boot. Me enorgullece trabajar en equipo y abordar desafíos técnicos con pasión y dedicación:
 
-🏫 Mi nombre es Benjamín Montero, soy un desarrollador de software full stack, realice la tecnicatura en desarrollo de aplicaciones informáticas en la universidad nacional del centro de la provincia de buenos aires. Durante mis estudios, he adquirido habilidades fundamentales como mi capacidad para trabajar en equipo, donde he aprendido a comunicarme eficazmente y a contribuir de manera significativa al éxito del equipo. 
+🚀 Colaboración efectiva en proyectos de equipo:
+Me destaco por mi capacidad para trabajar de manera colaborativa en proyectos de desarrollo de software. He contribuido activamente al desarrollo de aplicaciones Java con Spring Boot, trabajando mano a mano con el equipo para implementar nuevas funcionalidades y resolver desafíos técnicos.
 
-🚀 Te cuento sobre mi
-Soy una persona proactiva con gran motivación por el desarrollo de software, me gusta aprender y buscar desafíos constantemente para mejorar mis habilidades y poder ofrecer soluciones de calidad superior.
+💻 Creación de APIs y funcionalidades clave:
+He participado en la creación de APIs y en el desarrollo de funcionalidades esenciales para aplicaciones web. Mi experiencia incluye la creación de endpoints RESTful y la integración de nuevas características para mejorar la experiencia del usuario y la funcionalidad general de las aplicaciones.
 
-🌐¿Por desarrollador de software?
-En mi camino descubrí mi atracción por el software a lo largo de estos años gracias a mis estudios. En mi día a día manejo arquitecturas, patrones de diseño, diseño de BBDD, entre otras cosas. No destacaría una tecnología especial ya que no las considero una frontera pero me especializo en java, con spring boot y nextjs para el front.
+🔍 Resolución ágil de problemas:
+Mi enfoque proactivo y mi capacidad para resolver problemas técnicos han sido fundamentales para mantener la estabilidad y la integridad de las aplicaciones. Desde la identificación y corrección de errores hasta la optimización de consultas de bases de datos, estoy comprometido a encontrar soluciones eficientes que impulsen el éxito del equipo.
 
-
-➕ ¿Qué puedo aportar?. Pensamiento crítico, análisis y solución de problemas.
-
-🏛Aptitudes técnicas
-
-• Back-end:
-Tecnologías: Java, Spring Boot(Security, Cloud), Jpa(Hibernate), NodeJS+Express, PHP
-
-• Front-end:
-Tecnologías: Next js, React js, Tailwind css, TypeScript, UX/UI, CSS,
-
-• Bases De Datos:
-PostgreSQL, MySQL, SQLite, Mongo, Triggers
-
-• Metodologías: Scrum
+Estos logros reflejan mi dedicación al desarrollo de software de alta calidad y mi habilidad para adaptarme y contribuir de manera efectiva en un entorno colaborativo. Estoy emocionado por seguir creciendo y aprendiendo nuevas habilidades en el desarrollo de software. ¡Listo para enfrentar nuevos desafíos y contribuir al éxito del equipo!
